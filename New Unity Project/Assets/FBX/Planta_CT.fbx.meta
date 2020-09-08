@@ -1,0 +1,1648 @@
+fileFormatVersion: 2
+guid: a5ac1dadae8813443a091acd2abb887b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:1"
+    100002: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:1 1"
+    100004: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:1 2"
+    100006: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:1 3"
+    100008: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:2"
+    100010: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:2 1"
+    100012: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:2 2"
+    100014: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:2 3"
+    100016: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:3"
+    100018: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:3 1"
+    100020: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:3 2"
+    100022: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:3 3"
+    100024: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:4"
+    100026: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:4 1"
+    100028: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:4 2"
+    100030: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:4 3"
+    100032: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:5"
+    100034: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:5 1"
+    100036: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:5 2"
+    100038: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:6"
+    100040: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:6 1"
+    100042: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:6 2"
+    100044: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:7"
+    100046: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:7 1"
+    100048: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:8"
+    100050: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:8 1"
+    100052: "ASME B16.34 V\xE1lvula esf\xE9rica con finales con valona - Clase 250
+      3:1"
+    100054: "ASME B16.34 V\xE1lvula esf\xE9rica con finales con valona - Clase 250
+      3:1 1"
+    100056: "ASME B16.34 V\xE1lvula esf\xE9rica con finales con valona - Clase 250
+      3:1 2"
+    100058: ASME B16.5 Brida roscada - Clase 300 3:1
+    100060: ASME B16.5 Brida roscada - Clase 300 3:1 1
+    100062: ASME B16.5 Brida roscada - Clase 300 3:1 2
+    100064: ASME B16.5 Brida roscada - Clase 300 3:1 3
+    100066: ASME B16.5 Brida roscada - Clase 300 3:2
+    100068: ASME B16.5 Brida roscada - Clase 300 3:2 1
+    100070: ASME B16.5 Brida roscada - Clase 300 3:2 2
+    100072: ASME B16.5 Brida roscada - Clase 300 3:2 3
+    100074: ASME B16.5 Brida roscada - Clase 300 3:3
+    100076: ASME B16.5 Brida roscada - Clase 300 3:3 1
+    100078: ASME B16.5 Brida roscada - Clase 300 3:3 2
+    100080: ASME B16.5 Brida roscada - Clase 300 3:3 3
+    100082: ASME B16.5 Brida roscada - Clase 300 3:4
+    100084: ASME B16.5 Brida roscada - Clase 300 3:4 1
+    100086: ASME B16.5 Brida roscada - Clase 300 3:4 2
+    100088: ASME B16.5 Brida roscada - Clase 300 3:4 3
+    100090: ASME B16.5 Brida roscada - Clase 300 3:5
+    100092: ASME B16.5 Brida roscada - Clase 300 3:5 1
+    100094: ASME B16.5 Brida roscada - Clase 300 3:5 2
+    100096: ASME B16.5 Brida roscada - Clase 300 3:6
+    100098: ASME B16.5 Brida roscada - Clase 300 3:6 1
+    100100: ASME B16.5 Brida roscada - Clase 300 3:6 2
+    100102: ASME B16.5 Brida roscada - Clase 300 3:7
+    100104: ASME B16.5 Brida roscada - Clase 300 3:7 1
+    100106: ASME B16.5 Brida roscada - Clase 300 3:8
+    100108: ASME B16.5 Brida roscada - Clase 300 3:8 1
+    100110: ASME B16.5 Codo con valona - Clase 300 3:1
+    100112: ASME B16.5 Codo con valona - Clase 300 3:1 1
+    100114: ASME B16.5 Codo con valona - Clase 300 3:1 2
+    100116: ASME B16.5 Codo con valona - Clase 300 3:1 3
+    100118: ASME B16.5 Codo con valona - Clase 300 3:2
+    100120: ASME B16.5 Codo con valona - Clase 300 3:2 1
+    100122: ASME B16.5 Codo con valona - Clase 300 3:2 2
+    100124: ASME B16.5 Codo con valona - Clase 300 3:3
+    100126: ASME B16.5 Codo con valona - Clase 300 3:3 1
+    100128: ASME B16.5 Codo con valona - Clase 300 3:4
+    100130: BaseEstructura:1
+    100132: BaseEstructura:2
+    100134: BaseEstructuraTnk:1
+    100136: Caldera:1
+    100138: CarcasaTurbina:1
+    100140: Conducto02
+    100142: Conducto03
+    100144: Conducto04
+    100146: Conducto05
+    100148: "Conductos de tubos y tuber\xEDas 01"
+    100150: Frame0001:1
+    100152: Frame0001:1 1
+    100154: Frame0001:1 2
+    100156: Frame0001:1 3
+    100158: ISO 100x50x3 00000001:1
+    100160: ISO 100x50x3 00000002:1
+    100162: ISO 100x50x3 00000003:1
+    100164: ISO 100x50x3 00000004:1
+    100166: ISO 100x50x3 00000005:1
+    100168: ISO 100x50x3 00000006:1
+    100170: ISO 60x40x2.5 00000001:1
+    100172: ISO 60x40x2.5 00000001:1 1
+    100174: ISO 60x40x2.5 00000001:1 2
+    100176: ISO 60x40x2.5 00000002:1
+    100178: ISO 60x40x2.5 00000002:1 1
+    100180: ISO 60x40x2.5 00000002:1 2
+    100182: ISO 60x40x2.5 00000003:1
+    100184: ISO 60x40x2.5 00000003:1 1
+    100186: ISO 60x40x2.5 00000003:1 2
+    100188: ISO 60x40x2.5 00000004:1
+    100190: ISO 60x40x2.5 00000004:1 1
+    100192: ISO 60x40x2.5 00000004:1 2
+    100194: ISO 60x40x2.5 00000005:1
+    100196: ISO 60x40x2.5 00000005:1 1
+    100198: ISO 60x40x2.5 00000005:1 2
+    100200: ISO 60x40x2.5 00000006:1
+    100202: ISO 60x40x2.5 00000006:1 1
+    100204: ISO 60x40x2.5 00000006:1 2
+    100206: ISO 60x40x2.5 00000007:1
+    100208: ISO 60x40x2.5 00000007:1 1
+    100210: ISO 60x40x2.5 00000007:1 2
+    100212: ISO 60x40x2.5 00000008:1
+    100214: ISO 60x40x2.5 00000008:1 1
+    100216: ISO 60x40x2.5 00000008:1 2
+    100218: ISO 60x40x2.5 00000009:1
+    100220: ISO 60x40x2.5 00000009:1 1
+    100222: ISO 60x40x2.5 00000010:1
+    100224: ISO 60x40x2.5 00000010:1 1
+    100226: ISO 60x40x2.5 00000011:1
+    100228: ISO 60x40x2.5 00000011:1 1
+    100230: ISO 60x40x2.5 00000012:1
+    100232: ISO 60x40x2.5 00000012:1 1
+    100234: //RootNode
+    100236: PlantaCLD
+    100238: PLT:1
+    100240: PLT:2
+    100242: Queimador TA200:1
+    100244: "Segmento de tuber\xEDa 10:1"
+    100246: "Segmento de tuber\xEDa 1:1"
+    100248: "Segmento de tuber\xEDa 1:1 1"
+    100250: "Segmento de tuber\xEDa 1:1 2"
+    100252: "Segmento de tuber\xEDa 2:1"
+    100254: "Segmento de tuber\xEDa 2:1 1"
+    100256: "Segmento de tuber\xEDa 2:1 2"
+    100258: "Segmento de tuber\xEDa 3:1"
+    100260: "Segmento de tuber\xEDa 3:1 1"
+    100262: "Segmento de tuber\xEDa 3:1 2"
+    100264: "Segmento de tuber\xEDa 4:1"
+    100266: "Segmento de tuber\xEDa 4:1 1"
+    100268: "Segmento de tuber\xEDa 6:1"
+    100270: "Segmento de tuber\xEDa 6:1 1"
+    100272: "Segmento de tuber\xEDa 7:1"
+    100274: "Segmento de tuber\xEDa 8:1"
+    100276: "Segmento de tuber\xEDa 9:1"
+    100278: Solid1
+    100280: Solid1 1
+    100282: Solid1 10
+    100284: Solid1 100
+    100286: Solid1 101
+    100288: Solid1 102
+    100290: Solid1 103
+    100292: Solid1 104
+    100294: Solid1 105
+    100296: Solid1 106
+    100298: Solid1 107
+    100300: Solid1 108
+    100302: Solid1 109
+    100304: Solid1 11
+    100306: Solid1 110
+    100308: Solid1 111
+    100310: Solid1 112
+    100312: Solid1 113
+    100314: Solid1 114
+    100316: Solid1 115
+    100318: Solid1 116
+    100320: Solid1 117
+    100322: Solid1 118
+    100324: Solid1 119
+    100326: Solid1 12
+    100328: Solid1 120
+    100330: Solid1 121
+    100332: Solid1 122
+    100334: Solid1 123
+    100336: Solid1 124
+    100338: Solid1 125
+    100340: Solid1 126
+    100342: Solid1 127
+    100344: Solid1 13
+    100346: Solid1 14
+    100348: Solid1 15
+    100350: Solid1 16
+    100352: Solid1 17
+    100354: Solid1 18
+    100356: Solid1 19
+    100358: Solid1 2
+    100360: Solid1 20
+    100362: Solid1 21
+    100364: Solid1 22
+    100366: Solid1 23
+    100368: Solid1 24
+    100370: Solid1 25
+    100372: Solid1 26
+    100374: Solid1 27
+    100376: Solid1 28
+    100378: Solid1 29
+    100380: Solid1 3
+    100382: Solid1 30
+    100384: Solid1 31
+    100386: Solid1 32
+    100388: Solid1 33
+    100390: Solid1 34
+    100392: Solid1 35
+    100394: Solid1 36
+    100396: Solid1 37
+    100398: Solid1 38
+    100400: Solid1 39
+    100402: Solid1 4
+    100404: Solid1 40
+    100406: Solid1 41
+    100408: Solid1 42
+    100410: Solid1 43
+    100412: Solid1 44
+    100414: Solid1 45
+    100416: Solid1 46
+    100418: Solid1 47
+    100420: Solid1 48
+    100422: Solid1 49
+    100424: Solid1 5
+    100426: Solid1 50
+    100428: Solid1 51
+    100430: Solid1 52
+    100432: Solid1 53
+    100434: Solid1 54
+    100436: Solid1 55
+    100438: Solid1 56
+    100440: Solid1 57
+    100442: Solid1 58
+    100444: Solid1 59
+    100446: Solid1 6
+    100448: Solid1 60
+    100450: Solid1 61
+    100452: Solid1 62
+    100454: Solid1 63
+    100456: Solid1 64
+    100458: Solid1 65
+    100460: Solid1 66
+    100462: Solid1 67
+    100464: Solid1 68
+    100466: Solid1 69
+    100468: Solid1 7
+    100470: Solid1 70
+    100472: Solid1 71
+    100474: Solid1 72
+    100476: Solid1 73
+    100478: Solid1 74
+    100480: Solid1 75
+    100482: Solid1 76
+    100484: Solid1 77
+    100486: Solid1 78
+    100488: Solid1 79
+    100490: Solid1 8
+    100492: Solid1 80
+    100494: Solid1 81
+    100496: Solid1 82
+    100498: Solid1 83
+    100500: Solid1 84
+    100502: Solid1 85
+    100504: Solid1 86
+    100506: Solid1 87
+    100508: Solid1 88
+    100510: Solid1 89
+    100512: Solid1 9
+    100514: Solid1 90
+    100516: Solid1 91
+    100518: Solid1 92
+    100520: Solid1 93
+    100522: Solid1 94
+    100524: Solid1 95
+    100526: Solid1 96
+    100528: Solid1 97
+    100530: Solid1 98
+    100532: Solid1 99
+    100534: "S\xF3lido1"
+    100536: "S\xF3lido1 1"
+    100538: "S\xF3lido1 2"
+    100540: "S\xF3lido1 3"
+    100542: "S\xF3lido1 4"
+    100544: "S\xF3lido1 5"
+    100546: "S\xF3lido1 6"
+    100548: "S\xF3lido1 7"
+    100550: "S\xF3lido1 8"
+    100552: "S\xF3lido1 9"
+    100554: "S\xF3lido10"
+    100556: "S\xF3lido100"
+    100558: "S\xF3lido11"
+    100560: "S\xF3lido12"
+    100562: "S\xF3lido13"
+    100564: "S\xF3lido14"
+    100566: "S\xF3lido15"
+    100568: "S\xF3lido16"
+    100570: "S\xF3lido17"
+    100572: "S\xF3lido18"
+    100574: "S\xF3lido19"
+    100576: "S\xF3lido2"
+    100578: "S\xF3lido20"
+    100580: "S\xF3lido21"
+    100582: "S\xF3lido22"
+    100584: "S\xF3lido23"
+    100586: "S\xF3lido24"
+    100588: "S\xF3lido25"
+    100590: "S\xF3lido26"
+    100592: "S\xF3lido27"
+    100594: "S\xF3lido28"
+    100596: "S\xF3lido29"
+    100598: "S\xF3lido3"
+    100600: "S\xF3lido30"
+    100602: "S\xF3lido31"
+    100604: "S\xF3lido32"
+    100606: "S\xF3lido33"
+    100608: "S\xF3lido34"
+    100610: "S\xF3lido35"
+    100612: "S\xF3lido36"
+    100614: "S\xF3lido37"
+    100616: "S\xF3lido38"
+    100618: "S\xF3lido39"
+    100620: "S\xF3lido4"
+    100622: "S\xF3lido40"
+    100624: "S\xF3lido41"
+    100626: "S\xF3lido42"
+    100628: "S\xF3lido43"
+    100630: "S\xF3lido44"
+    100632: "S\xF3lido45"
+    100634: "S\xF3lido46"
+    100636: "S\xF3lido47"
+    100638: "S\xF3lido48"
+    100640: "S\xF3lido49"
+    100642: "S\xF3lido5"
+    100644: "S\xF3lido50"
+    100646: "S\xF3lido51"
+    100648: "S\xF3lido52"
+    100650: "S\xF3lido53"
+    100652: "S\xF3lido54"
+    100654: "S\xF3lido55"
+    100656: "S\xF3lido56"
+    100658: "S\xF3lido57"
+    100660: "S\xF3lido58"
+    100662: "S\xF3lido59"
+    100664: "S\xF3lido6"
+    100666: "S\xF3lido60"
+    100668: "S\xF3lido61"
+    100670: "S\xF3lido62"
+    100672: "S\xF3lido63"
+    100674: "S\xF3lido64"
+    100676: "S\xF3lido65"
+    100678: "S\xF3lido66"
+    100680: "S\xF3lido67"
+    100682: "S\xF3lido68"
+    100684: "S\xF3lido69"
+    100686: "S\xF3lido7"
+    100688: "S\xF3lido70"
+    100690: "S\xF3lido71"
+    100692: "S\xF3lido72"
+    100694: "S\xF3lido73"
+    100696: "S\xF3lido74"
+    100698: "S\xF3lido75"
+    100700: "S\xF3lido76"
+    100702: "S\xF3lido77"
+    100704: "S\xF3lido78"
+    100706: "S\xF3lido79"
+    100708: "S\xF3lido8"
+    100710: "S\xF3lido80"
+    100712: "S\xF3lido81"
+    100714: "S\xF3lido82"
+    100716: "S\xF3lido83"
+    100718: "S\xF3lido84"
+    100720: "S\xF3lido85"
+    100722: "S\xF3lido86"
+    100724: "S\xF3lido87"
+    100726: "S\xF3lido88"
+    100728: "S\xF3lido89"
+    100730: "S\xF3lido9"
+    100732: "S\xF3lido90"
+    100734: "S\xF3lido91"
+    100736: "S\xF3lido92"
+    100738: "S\xF3lido93"
+    100740: "S\xF3lido94"
+    100742: "S\xF3lido95"
+    100744: "S\xF3lido96"
+    100746: "S\xF3lido97"
+    100748: "S\xF3lido98"
+    100750: "S\xF3lido99"
+    100752: TK1:1
+    100754: TK1:2
+    400000: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:1"
+    400002: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:1 1"
+    400004: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:1 2"
+    400006: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:1 3"
+    400008: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:2"
+    400010: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:2 1"
+    400012: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:2 2"
+    400014: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:2 3"
+    400016: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:3"
+    400018: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:3 1"
+    400020: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:3 2"
+    400022: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:3 3"
+    400024: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:4"
+    400026: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:4 1"
+    400028: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:4 2"
+    400030: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:4 3"
+    400032: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:5"
+    400034: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:5 1"
+    400036: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:5 2"
+    400038: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:6"
+    400040: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:6 1"
+    400042: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:6 2"
+    400044: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:7"
+    400046: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:7 1"
+    400048: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:8"
+    400050: "ASME B16.21 Junta de estanqueidad plana no met\xE1lica para ASME B16.5
+      Anilla plana - Clase 300 3-0.05:8 1"
+    400052: "ASME B16.34 V\xE1lvula esf\xE9rica con finales con valona - Clase 250
+      3:1"
+    400054: "ASME B16.34 V\xE1lvula esf\xE9rica con finales con valona - Clase 250
+      3:1 1"
+    400056: "ASME B16.34 V\xE1lvula esf\xE9rica con finales con valona - Clase 250
+      3:1 2"
+    400058: ASME B16.5 Brida roscada - Clase 300 3:1
+    400060: ASME B16.5 Brida roscada - Clase 300 3:1 1
+    400062: ASME B16.5 Brida roscada - Clase 300 3:1 2
+    400064: ASME B16.5 Brida roscada - Clase 300 3:1 3
+    400066: ASME B16.5 Brida roscada - Clase 300 3:2
+    400068: ASME B16.5 Brida roscada - Clase 300 3:2 1
+    400070: ASME B16.5 Brida roscada - Clase 300 3:2 2
+    400072: ASME B16.5 Brida roscada - Clase 300 3:2 3
+    400074: ASME B16.5 Brida roscada - Clase 300 3:3
+    400076: ASME B16.5 Brida roscada - Clase 300 3:3 1
+    400078: ASME B16.5 Brida roscada - Clase 300 3:3 2
+    400080: ASME B16.5 Brida roscada - Clase 300 3:3 3
+    400082: ASME B16.5 Brida roscada - Clase 300 3:4
+    400084: ASME B16.5 Brida roscada - Clase 300 3:4 1
+    400086: ASME B16.5 Brida roscada - Clase 300 3:4 2
+    400088: ASME B16.5 Brida roscada - Clase 300 3:4 3
+    400090: ASME B16.5 Brida roscada - Clase 300 3:5
+    400092: ASME B16.5 Brida roscada - Clase 300 3:5 1
+    400094: ASME B16.5 Brida roscada - Clase 300 3:5 2
+    400096: ASME B16.5 Brida roscada - Clase 300 3:6
+    400098: ASME B16.5 Brida roscada - Clase 300 3:6 1
+    400100: ASME B16.5 Brida roscada - Clase 300 3:6 2
+    400102: ASME B16.5 Brida roscada - Clase 300 3:7
+    400104: ASME B16.5 Brida roscada - Clase 300 3:7 1
+    400106: ASME B16.5 Brida roscada - Clase 300 3:8
+    400108: ASME B16.5 Brida roscada - Clase 300 3:8 1
+    400110: ASME B16.5 Codo con valona - Clase 300 3:1
+    400112: ASME B16.5 Codo con valona - Clase 300 3:1 1
+    400114: ASME B16.5 Codo con valona - Clase 300 3:1 2
+    400116: ASME B16.5 Codo con valona - Clase 300 3:1 3
+    400118: ASME B16.5 Codo con valona - Clase 300 3:2
+    400120: ASME B16.5 Codo con valona - Clase 300 3:2 1
+    400122: ASME B16.5 Codo con valona - Clase 300 3:2 2
+    400124: ASME B16.5 Codo con valona - Clase 300 3:3
+    400126: ASME B16.5 Codo con valona - Clase 300 3:3 1
+    400128: ASME B16.5 Codo con valona - Clase 300 3:4
+    400130: BaseEstructura:1
+    400132: BaseEstructura:2
+    400134: BaseEstructuraTnk:1
+    400136: Caldera:1
+    400138: CarcasaTurbina:1
+    400140: Conducto02
+    400142: Conducto03
+    400144: Conducto04
+    400146: Conducto05
+    400148: "Conductos de tubos y tuber\xEDas 01"
+    400150: Frame0001:1
+    400152: Frame0001:1 1
+    400154: Frame0001:1 2
+    400156: Frame0001:1 3
+    400158: ISO 100x50x3 00000001:1
+    400160: ISO 100x50x3 00000002:1
+    400162: ISO 100x50x3 00000003:1
+    400164: ISO 100x50x3 00000004:1
+    400166: ISO 100x50x3 00000005:1
+    400168: ISO 100x50x3 00000006:1
+    400170: ISO 60x40x2.5 00000001:1
+    400172: ISO 60x40x2.5 00000001:1 1
+    400174: ISO 60x40x2.5 00000001:1 2
+    400176: ISO 60x40x2.5 00000002:1
+    400178: ISO 60x40x2.5 00000002:1 1
+    400180: ISO 60x40x2.5 00000002:1 2
+    400182: ISO 60x40x2.5 00000003:1
+    400184: ISO 60x40x2.5 00000003:1 1
+    400186: ISO 60x40x2.5 00000003:1 2
+    400188: ISO 60x40x2.5 00000004:1
+    400190: ISO 60x40x2.5 00000004:1 1
+    400192: ISO 60x40x2.5 00000004:1 2
+    400194: ISO 60x40x2.5 00000005:1
+    400196: ISO 60x40x2.5 00000005:1 1
+    400198: ISO 60x40x2.5 00000005:1 2
+    400200: ISO 60x40x2.5 00000006:1
+    400202: ISO 60x40x2.5 00000006:1 1
+    400204: ISO 60x40x2.5 00000006:1 2
+    400206: ISO 60x40x2.5 00000007:1
+    400208: ISO 60x40x2.5 00000007:1 1
+    400210: ISO 60x40x2.5 00000007:1 2
+    400212: ISO 60x40x2.5 00000008:1
+    400214: ISO 60x40x2.5 00000008:1 1
+    400216: ISO 60x40x2.5 00000008:1 2
+    400218: ISO 60x40x2.5 00000009:1
+    400220: ISO 60x40x2.5 00000009:1 1
+    400222: ISO 60x40x2.5 00000010:1
+    400224: ISO 60x40x2.5 00000010:1 1
+    400226: ISO 60x40x2.5 00000011:1
+    400228: ISO 60x40x2.5 00000011:1 1
+    400230: ISO 60x40x2.5 00000012:1
+    400232: ISO 60x40x2.5 00000012:1 1
+    400234: //RootNode
+    400236: PlantaCLD
+    400238: PLT:1
+    400240: PLT:2
+    400242: Queimador TA200:1
+    400244: "Segmento de tuber\xEDa 10:1"
+    400246: "Segmento de tuber\xEDa 1:1"
+    400248: "Segmento de tuber\xEDa 1:1 1"
+    400250: "Segmento de tuber\xEDa 1:1 2"
+    400252: "Segmento de tuber\xEDa 2:1"
+    400254: "Segmento de tuber\xEDa 2:1 1"
+    400256: "Segmento de tuber\xEDa 2:1 2"
+    400258: "Segmento de tuber\xEDa 3:1"
+    400260: "Segmento de tuber\xEDa 3:1 1"
+    400262: "Segmento de tuber\xEDa 3:1 2"
+    400264: "Segmento de tuber\xEDa 4:1"
+    400266: "Segmento de tuber\xEDa 4:1 1"
+    400268: "Segmento de tuber\xEDa 6:1"
+    400270: "Segmento de tuber\xEDa 6:1 1"
+    400272: "Segmento de tuber\xEDa 7:1"
+    400274: "Segmento de tuber\xEDa 8:1"
+    400276: "Segmento de tuber\xEDa 9:1"
+    400278: Solid1
+    400280: Solid1 1
+    400282: Solid1 10
+    400284: Solid1 100
+    400286: Solid1 101
+    400288: Solid1 102
+    400290: Solid1 103
+    400292: Solid1 104
+    400294: Solid1 105
+    400296: Solid1 106
+    400298: Solid1 107
+    400300: Solid1 108
+    400302: Solid1 109
+    400304: Solid1 11
+    400306: Solid1 110
+    400308: Solid1 111
+    400310: Solid1 112
+    400312: Solid1 113
+    400314: Solid1 114
+    400316: Solid1 115
+    400318: Solid1 116
+    400320: Solid1 117
+    400322: Solid1 118
+    400324: Solid1 119
+    400326: Solid1 12
+    400328: Solid1 120
+    400330: Solid1 121
+    400332: Solid1 122
+    400334: Solid1 123
+    400336: Solid1 124
+    400338: Solid1 125
+    400340: Solid1 126
+    400342: Solid1 127
+    400344: Solid1 13
+    400346: Solid1 14
+    400348: Solid1 15
+    400350: Solid1 16
+    400352: Solid1 17
+    400354: Solid1 18
+    400356: Solid1 19
+    400358: Solid1 2
+    400360: Solid1 20
+    400362: Solid1 21
+    400364: Solid1 22
+    400366: Solid1 23
+    400368: Solid1 24
+    400370: Solid1 25
+    400372: Solid1 26
+    400374: Solid1 27
+    400376: Solid1 28
+    400378: Solid1 29
+    400380: Solid1 3
+    400382: Solid1 30
+    400384: Solid1 31
+    400386: Solid1 32
+    400388: Solid1 33
+    400390: Solid1 34
+    400392: Solid1 35
+    400394: Solid1 36
+    400396: Solid1 37
+    400398: Solid1 38
+    400400: Solid1 39
+    400402: Solid1 4
+    400404: Solid1 40
+    400406: Solid1 41
+    400408: Solid1 42
+    400410: Solid1 43
+    400412: Solid1 44
+    400414: Solid1 45
+    400416: Solid1 46
+    400418: Solid1 47
+    400420: Solid1 48
+    400422: Solid1 49
+    400424: Solid1 5
+    400426: Solid1 50
+    400428: Solid1 51
+    400430: Solid1 52
+    400432: Solid1 53
+    400434: Solid1 54
+    400436: Solid1 55
+    400438: Solid1 56
+    400440: Solid1 57
+    400442: Solid1 58
+    400444: Solid1 59
+    400446: Solid1 6
+    400448: Solid1 60
+    400450: Solid1 61
+    400452: Solid1 62
+    400454: Solid1 63
+    400456: Solid1 64
+    400458: Solid1 65
+    400460: Solid1 66
+    400462: Solid1 67
+    400464: Solid1 68
+    400466: Solid1 69
+    400468: Solid1 7
+    400470: Solid1 70
+    400472: Solid1 71
+    400474: Solid1 72
+    400476: Solid1 73
+    400478: Solid1 74
+    400480: Solid1 75
+    400482: Solid1 76
+    400484: Solid1 77
+    400486: Solid1 78
+    400488: Solid1 79
+    400490: Solid1 8
+    400492: Solid1 80
+    400494: Solid1 81
+    400496: Solid1 82
+    400498: Solid1 83
+    400500: Solid1 84
+    400502: Solid1 85
+    400504: Solid1 86
+    400506: Solid1 87
+    400508: Solid1 88
+    400510: Solid1 89
+    400512: Solid1 9
+    400514: Solid1 90
+    400516: Solid1 91
+    400518: Solid1 92
+    400520: Solid1 93
+    400522: Solid1 94
+    400524: Solid1 95
+    400526: Solid1 96
+    400528: Solid1 97
+    400530: Solid1 98
+    400532: Solid1 99
+    400534: "S\xF3lido1"
+    400536: "S\xF3lido1 1"
+    400538: "S\xF3lido1 2"
+    400540: "S\xF3lido1 3"
+    400542: "S\xF3lido1 4"
+    400544: "S\xF3lido1 5"
+    400546: "S\xF3lido1 6"
+    400548: "S\xF3lido1 7"
+    400550: "S\xF3lido1 8"
+    400552: "S\xF3lido1 9"
+    400554: "S\xF3lido10"
+    400556: "S\xF3lido100"
+    400558: "S\xF3lido11"
+    400560: "S\xF3lido12"
+    400562: "S\xF3lido13"
+    400564: "S\xF3lido14"
+    400566: "S\xF3lido15"
+    400568: "S\xF3lido16"
+    400570: "S\xF3lido17"
+    400572: "S\xF3lido18"
+    400574: "S\xF3lido19"
+    400576: "S\xF3lido2"
+    400578: "S\xF3lido20"
+    400580: "S\xF3lido21"
+    400582: "S\xF3lido22"
+    400584: "S\xF3lido23"
+    400586: "S\xF3lido24"
+    400588: "S\xF3lido25"
+    400590: "S\xF3lido26"
+    400592: "S\xF3lido27"
+    400594: "S\xF3lido28"
+    400596: "S\xF3lido29"
+    400598: "S\xF3lido3"
+    400600: "S\xF3lido30"
+    400602: "S\xF3lido31"
+    400604: "S\xF3lido32"
+    400606: "S\xF3lido33"
+    400608: "S\xF3lido34"
+    400610: "S\xF3lido35"
+    400612: "S\xF3lido36"
+    400614: "S\xF3lido37"
+    400616: "S\xF3lido38"
+    400618: "S\xF3lido39"
+    400620: "S\xF3lido4"
+    400622: "S\xF3lido40"
+    400624: "S\xF3lido41"
+    400626: "S\xF3lido42"
+    400628: "S\xF3lido43"
+    400630: "S\xF3lido44"
+    400632: "S\xF3lido45"
+    400634: "S\xF3lido46"
+    400636: "S\xF3lido47"
+    400638: "S\xF3lido48"
+    400640: "S\xF3lido49"
+    400642: "S\xF3lido5"
+    400644: "S\xF3lido50"
+    400646: "S\xF3lido51"
+    400648: "S\xF3lido52"
+    400650: "S\xF3lido53"
+    400652: "S\xF3lido54"
+    400654: "S\xF3lido55"
+    400656: "S\xF3lido56"
+    400658: "S\xF3lido57"
+    400660: "S\xF3lido58"
+    400662: "S\xF3lido59"
+    400664: "S\xF3lido6"
+    400666: "S\xF3lido60"
+    400668: "S\xF3lido61"
+    400670: "S\xF3lido62"
+    400672: "S\xF3lido63"
+    400674: "S\xF3lido64"
+    400676: "S\xF3lido65"
+    400678: "S\xF3lido66"
+    400680: "S\xF3lido67"
+    400682: "S\xF3lido68"
+    400684: "S\xF3lido69"
+    400686: "S\xF3lido7"
+    400688: "S\xF3lido70"
+    400690: "S\xF3lido71"
+    400692: "S\xF3lido72"
+    400694: "S\xF3lido73"
+    400696: "S\xF3lido74"
+    400698: "S\xF3lido75"
+    400700: "S\xF3lido76"
+    400702: "S\xF3lido77"
+    400704: "S\xF3lido78"
+    400706: "S\xF3lido79"
+    400708: "S\xF3lido8"
+    400710: "S\xF3lido80"
+    400712: "S\xF3lido81"
+    400714: "S\xF3lido82"
+    400716: "S\xF3lido83"
+    400718: "S\xF3lido84"
+    400720: "S\xF3lido85"
+    400722: "S\xF3lido86"
+    400724: "S\xF3lido87"
+    400726: "S\xF3lido88"
+    400728: "S\xF3lido89"
+    400730: "S\xF3lido9"
+    400732: "S\xF3lido90"
+    400734: "S\xF3lido91"
+    400736: "S\xF3lido92"
+    400738: "S\xF3lido93"
+    400740: "S\xF3lido94"
+    400742: "S\xF3lido95"
+    400744: "S\xF3lido96"
+    400746: "S\xF3lido97"
+    400748: "S\xF3lido98"
+    400750: "S\xF3lido99"
+    400752: TK1:1
+    400754: TK1:2
+    2100000: 'Material #175'
+    2100002: 'Material #180'
+    2100004: 'Material #181'
+    2100006: 'Material #182'
+    2100008: 'Material #183'
+    2100010: 'Material #184'
+    2100012: 'Material #185'
+    2100014: 'Material #186'
+    2100016: 'Material #187'
+    2100018: 'Material #188'
+    2100020: 'Material #189'
+    2100022: 'Material #190'
+    2100024: 'Material #191'
+    2100026: 'Material #192'
+    2100028: 'Material #193'
+    2100030: 'Material #194'
+    2100032: 'Material #195'
+    2100034: 'Material #196'
+    2100036: 'Material #197'
+    2100038: 'Material #198'
+    2100040: 'Material #199'
+    2100042: 'Material #208'
+    2100044: 'Material #211'
+    2100046: 'Material #214'
+    2100048: 'Material #215'
+    2100050: 'Material #216'
+    2100052: 'Material #217'
+    2100054: 'Material #218'
+    2100056: 'Material #219'
+    2100058: 'Material #222'
+    2100060: 'Material #223'
+    2100062: 'Material #224'
+    2300000: Solid1
+    2300002: Solid1 1
+    2300004: Solid1 10
+    2300006: Solid1 100
+    2300008: Solid1 101
+    2300010: Solid1 102
+    2300012: Solid1 103
+    2300014: Solid1 104
+    2300016: Solid1 105
+    2300018: Solid1 106
+    2300020: Solid1 107
+    2300022: Solid1 108
+    2300024: Solid1 109
+    2300026: Solid1 11
+    2300028: Solid1 110
+    2300030: Solid1 111
+    2300032: Solid1 112
+    2300034: Solid1 113
+    2300036: Solid1 114
+    2300038: Solid1 115
+    2300040: Solid1 116
+    2300042: Solid1 117
+    2300044: Solid1 118
+    2300046: Solid1 119
+    2300048: Solid1 12
+    2300050: Solid1 120
+    2300052: Solid1 121
+    2300054: Solid1 122
+    2300056: Solid1 123
+    2300058: Solid1 124
+    2300060: Solid1 125
+    2300062: Solid1 126
+    2300064: Solid1 127
+    2300066: Solid1 13
+    2300068: Solid1 14
+    2300070: Solid1 15
+    2300072: Solid1 16
+    2300074: Solid1 17
+    2300076: Solid1 18
+    2300078: Solid1 19
+    2300080: Solid1 2
+    2300082: Solid1 20
+    2300084: Solid1 21
+    2300086: Solid1 22
+    2300088: Solid1 23
+    2300090: Solid1 24
+    2300092: Solid1 25
+    2300094: Solid1 26
+    2300096: Solid1 27
+    2300098: Solid1 28
+    2300100: Solid1 29
+    2300102: Solid1 3
+    2300104: Solid1 30
+    2300106: Solid1 31
+    2300108: Solid1 32
+    2300110: Solid1 33
+    2300112: Solid1 34
+    2300114: Solid1 35
+    2300116: Solid1 36
+    2300118: Solid1 37
+    2300120: Solid1 38
+    2300122: Solid1 39
+    2300124: Solid1 4
+    2300126: Solid1 40
+    2300128: Solid1 41
+    2300130: Solid1 42
+    2300132: Solid1 43
+    2300134: Solid1 44
+    2300136: Solid1 45
+    2300138: Solid1 46
+    2300140: Solid1 47
+    2300142: Solid1 48
+    2300144: Solid1 49
+    2300146: Solid1 5
+    2300148: Solid1 50
+    2300150: Solid1 51
+    2300152: Solid1 52
+    2300154: Solid1 53
+    2300156: Solid1 54
+    2300158: Solid1 55
+    2300160: Solid1 56
+    2300162: Solid1 57
+    2300164: Solid1 58
+    2300166: Solid1 59
+    2300168: Solid1 6
+    2300170: Solid1 60
+    2300172: Solid1 61
+    2300174: Solid1 62
+    2300176: Solid1 63
+    2300178: Solid1 64
+    2300180: Solid1 65
+    2300182: Solid1 66
+    2300184: Solid1 67
+    2300186: Solid1 68
+    2300188: Solid1 69
+    2300190: Solid1 7
+    2300192: Solid1 70
+    2300194: Solid1 71
+    2300196: Solid1 72
+    2300198: Solid1 73
+    2300200: Solid1 74
+    2300202: Solid1 75
+    2300204: Solid1 76
+    2300206: Solid1 77
+    2300208: Solid1 78
+    2300210: Solid1 79
+    2300212: Solid1 8
+    2300214: Solid1 80
+    2300216: Solid1 81
+    2300218: Solid1 82
+    2300220: Solid1 83
+    2300222: Solid1 84
+    2300224: Solid1 85
+    2300226: Solid1 86
+    2300228: Solid1 87
+    2300230: Solid1 88
+    2300232: Solid1 89
+    2300234: Solid1 9
+    2300236: Solid1 90
+    2300238: Solid1 91
+    2300240: Solid1 92
+    2300242: Solid1 93
+    2300244: Solid1 94
+    2300246: Solid1 95
+    2300248: Solid1 96
+    2300250: Solid1 97
+    2300252: Solid1 98
+    2300254: Solid1 99
+    2300256: "S\xF3lido1"
+    2300258: "S\xF3lido1 1"
+    2300260: "S\xF3lido1 2"
+    2300262: "S\xF3lido1 3"
+    2300264: "S\xF3lido1 4"
+    2300266: "S\xF3lido1 5"
+    2300268: "S\xF3lido1 6"
+    2300270: "S\xF3lido1 7"
+    2300272: "S\xF3lido1 8"
+    2300274: "S\xF3lido1 9"
+    2300276: "S\xF3lido10"
+    2300278: "S\xF3lido100"
+    2300280: "S\xF3lido11"
+    2300282: "S\xF3lido12"
+    2300284: "S\xF3lido13"
+    2300286: "S\xF3lido14"
+    2300288: "S\xF3lido15"
+    2300290: "S\xF3lido16"
+    2300292: "S\xF3lido17"
+    2300294: "S\xF3lido18"
+    2300296: "S\xF3lido19"
+    2300298: "S\xF3lido2"
+    2300300: "S\xF3lido20"
+    2300302: "S\xF3lido21"
+    2300304: "S\xF3lido22"
+    2300306: "S\xF3lido23"
+    2300308: "S\xF3lido24"
+    2300310: "S\xF3lido25"
+    2300312: "S\xF3lido26"
+    2300314: "S\xF3lido27"
+    2300316: "S\xF3lido28"
+    2300318: "S\xF3lido29"
+    2300320: "S\xF3lido3"
+    2300322: "S\xF3lido30"
+    2300324: "S\xF3lido31"
+    2300326: "S\xF3lido32"
+    2300328: "S\xF3lido33"
+    2300330: "S\xF3lido34"
+    2300332: "S\xF3lido35"
+    2300334: "S\xF3lido36"
+    2300336: "S\xF3lido37"
+    2300338: "S\xF3lido38"
+    2300340: "S\xF3lido39"
+    2300342: "S\xF3lido4"
+    2300344: "S\xF3lido40"
+    2300346: "S\xF3lido41"
+    2300348: "S\xF3lido42"
+    2300350: "S\xF3lido43"
+    2300352: "S\xF3lido44"
+    2300354: "S\xF3lido45"
+    2300356: "S\xF3lido46"
+    2300358: "S\xF3lido47"
+    2300360: "S\xF3lido48"
+    2300362: "S\xF3lido49"
+    2300364: "S\xF3lido5"
+    2300366: "S\xF3lido50"
+    2300368: "S\xF3lido51"
+    2300370: "S\xF3lido52"
+    2300372: "S\xF3lido53"
+    2300374: "S\xF3lido54"
+    2300376: "S\xF3lido55"
+    2300378: "S\xF3lido56"
+    2300380: "S\xF3lido57"
+    2300382: "S\xF3lido58"
+    2300384: "S\xF3lido59"
+    2300386: "S\xF3lido6"
+    2300388: "S\xF3lido60"
+    2300390: "S\xF3lido61"
+    2300392: "S\xF3lido62"
+    2300394: "S\xF3lido63"
+    2300396: "S\xF3lido64"
+    2300398: "S\xF3lido65"
+    2300400: "S\xF3lido66"
+    2300402: "S\xF3lido67"
+    2300404: "S\xF3lido68"
+    2300406: "S\xF3lido69"
+    2300408: "S\xF3lido7"
+    2300410: "S\xF3lido70"
+    2300412: "S\xF3lido71"
+    2300414: "S\xF3lido72"
+    2300416: "S\xF3lido73"
+    2300418: "S\xF3lido74"
+    2300420: "S\xF3lido75"
+    2300422: "S\xF3lido76"
+    2300424: "S\xF3lido77"
+    2300426: "S\xF3lido78"
+    2300428: "S\xF3lido79"
+    2300430: "S\xF3lido8"
+    2300432: "S\xF3lido80"
+    2300434: "S\xF3lido81"
+    2300436: "S\xF3lido82"
+    2300438: "S\xF3lido83"
+    2300440: "S\xF3lido84"
+    2300442: "S\xF3lido85"
+    2300444: "S\xF3lido86"
+    2300446: "S\xF3lido87"
+    2300448: "S\xF3lido88"
+    2300450: "S\xF3lido89"
+    2300452: "S\xF3lido9"
+    2300454: "S\xF3lido90"
+    2300456: "S\xF3lido91"
+    2300458: "S\xF3lido92"
+    2300460: "S\xF3lido93"
+    2300462: "S\xF3lido94"
+    2300464: "S\xF3lido95"
+    2300466: "S\xF3lido96"
+    2300468: "S\xF3lido97"
+    2300470: "S\xF3lido98"
+    2300472: "S\xF3lido99"
+    3300000: Solid1
+    3300002: Solid1 1
+    3300004: Solid1 10
+    3300006: Solid1 100
+    3300008: Solid1 101
+    3300010: Solid1 102
+    3300012: Solid1 103
+    3300014: Solid1 104
+    3300016: Solid1 105
+    3300018: Solid1 106
+    3300020: Solid1 107
+    3300022: Solid1 108
+    3300024: Solid1 109
+    3300026: Solid1 11
+    3300028: Solid1 110
+    3300030: Solid1 111
+    3300032: Solid1 112
+    3300034: Solid1 113
+    3300036: Solid1 114
+    3300038: Solid1 115
+    3300040: Solid1 116
+    3300042: Solid1 117
+    3300044: Solid1 118
+    3300046: Solid1 119
+    3300048: Solid1 12
+    3300050: Solid1 120
+    3300052: Solid1 121
+    3300054: Solid1 122
+    3300056: Solid1 123
+    3300058: Solid1 124
+    3300060: Solid1 125
+    3300062: Solid1 126
+    3300064: Solid1 127
+    3300066: Solid1 13
+    3300068: Solid1 14
+    3300070: Solid1 15
+    3300072: Solid1 16
+    3300074: Solid1 17
+    3300076: Solid1 18
+    3300078: Solid1 19
+    3300080: Solid1 2
+    3300082: Solid1 20
+    3300084: Solid1 21
+    3300086: Solid1 22
+    3300088: Solid1 23
+    3300090: Solid1 24
+    3300092: Solid1 25
+    3300094: Solid1 26
+    3300096: Solid1 27
+    3300098: Solid1 28
+    3300100: Solid1 29
+    3300102: Solid1 3
+    3300104: Solid1 30
+    3300106: Solid1 31
+    3300108: Solid1 32
+    3300110: Solid1 33
+    3300112: Solid1 34
+    3300114: Solid1 35
+    3300116: Solid1 36
+    3300118: Solid1 37
+    3300120: Solid1 38
+    3300122: Solid1 39
+    3300124: Solid1 4
+    3300126: Solid1 40
+    3300128: Solid1 41
+    3300130: Solid1 42
+    3300132: Solid1 43
+    3300134: Solid1 44
+    3300136: Solid1 45
+    3300138: Solid1 46
+    3300140: Solid1 47
+    3300142: Solid1 48
+    3300144: Solid1 49
+    3300146: Solid1 5
+    3300148: Solid1 50
+    3300150: Solid1 51
+    3300152: Solid1 52
+    3300154: Solid1 53
+    3300156: Solid1 54
+    3300158: Solid1 55
+    3300160: Solid1 56
+    3300162: Solid1 57
+    3300164: Solid1 58
+    3300166: Solid1 59
+    3300168: Solid1 6
+    3300170: Solid1 60
+    3300172: Solid1 61
+    3300174: Solid1 62
+    3300176: Solid1 63
+    3300178: Solid1 64
+    3300180: Solid1 65
+    3300182: Solid1 66
+    3300184: Solid1 67
+    3300186: Solid1 68
+    3300188: Solid1 69
+    3300190: Solid1 7
+    3300192: Solid1 70
+    3300194: Solid1 71
+    3300196: Solid1 72
+    3300198: Solid1 73
+    3300200: Solid1 74
+    3300202: Solid1 75
+    3300204: Solid1 76
+    3300206: Solid1 77
+    3300208: Solid1 78
+    3300210: Solid1 79
+    3300212: Solid1 8
+    3300214: Solid1 80
+    3300216: Solid1 81
+    3300218: Solid1 82
+    3300220: Solid1 83
+    3300222: Solid1 84
+    3300224: Solid1 85
+    3300226: Solid1 86
+    3300228: Solid1 87
+    3300230: Solid1 88
+    3300232: Solid1 89
+    3300234: Solid1 9
+    3300236: Solid1 90
+    3300238: Solid1 91
+    3300240: Solid1 92
+    3300242: Solid1 93
+    3300244: Solid1 94
+    3300246: Solid1 95
+    3300248: Solid1 96
+    3300250: Solid1 97
+    3300252: Solid1 98
+    3300254: Solid1 99
+    3300256: "S\xF3lido1"
+    3300258: "S\xF3lido1 1"
+    3300260: "S\xF3lido1 2"
+    3300262: "S\xF3lido1 3"
+    3300264: "S\xF3lido1 4"
+    3300266: "S\xF3lido1 5"
+    3300268: "S\xF3lido1 6"
+    3300270: "S\xF3lido1 7"
+    3300272: "S\xF3lido1 8"
+    3300274: "S\xF3lido1 9"
+    3300276: "S\xF3lido10"
+    3300278: "S\xF3lido100"
+    3300280: "S\xF3lido11"
+    3300282: "S\xF3lido12"
+    3300284: "S\xF3lido13"
+    3300286: "S\xF3lido14"
+    3300288: "S\xF3lido15"
+    3300290: "S\xF3lido16"
+    3300292: "S\xF3lido17"
+    3300294: "S\xF3lido18"
+    3300296: "S\xF3lido19"
+    3300298: "S\xF3lido2"
+    3300300: "S\xF3lido20"
+    3300302: "S\xF3lido21"
+    3300304: "S\xF3lido22"
+    3300306: "S\xF3lido23"
+    3300308: "S\xF3lido24"
+    3300310: "S\xF3lido25"
+    3300312: "S\xF3lido26"
+    3300314: "S\xF3lido27"
+    3300316: "S\xF3lido28"
+    3300318: "S\xF3lido29"
+    3300320: "S\xF3lido3"
+    3300322: "S\xF3lido30"
+    3300324: "S\xF3lido31"
+    3300326: "S\xF3lido32"
+    3300328: "S\xF3lido33"
+    3300330: "S\xF3lido34"
+    3300332: "S\xF3lido35"
+    3300334: "S\xF3lido36"
+    3300336: "S\xF3lido37"
+    3300338: "S\xF3lido38"
+    3300340: "S\xF3lido39"
+    3300342: "S\xF3lido4"
+    3300344: "S\xF3lido40"
+    3300346: "S\xF3lido41"
+    3300348: "S\xF3lido42"
+    3300350: "S\xF3lido43"
+    3300352: "S\xF3lido44"
+    3300354: "S\xF3lido45"
+    3300356: "S\xF3lido46"
+    3300358: "S\xF3lido47"
+    3300360: "S\xF3lido48"
+    3300362: "S\xF3lido49"
+    3300364: "S\xF3lido5"
+    3300366: "S\xF3lido50"
+    3300368: "S\xF3lido51"
+    3300370: "S\xF3lido52"
+    3300372: "S\xF3lido53"
+    3300374: "S\xF3lido54"
+    3300376: "S\xF3lido55"
+    3300378: "S\xF3lido56"
+    3300380: "S\xF3lido57"
+    3300382: "S\xF3lido58"
+    3300384: "S\xF3lido59"
+    3300386: "S\xF3lido6"
+    3300388: "S\xF3lido60"
+    3300390: "S\xF3lido61"
+    3300392: "S\xF3lido62"
+    3300394: "S\xF3lido63"
+    3300396: "S\xF3lido64"
+    3300398: "S\xF3lido65"
+    3300400: "S\xF3lido66"
+    3300402: "S\xF3lido67"
+    3300404: "S\xF3lido68"
+    3300406: "S\xF3lido69"
+    3300408: "S\xF3lido7"
+    3300410: "S\xF3lido70"
+    3300412: "S\xF3lido71"
+    3300414: "S\xF3lido72"
+    3300416: "S\xF3lido73"
+    3300418: "S\xF3lido74"
+    3300420: "S\xF3lido75"
+    3300422: "S\xF3lido76"
+    3300424: "S\xF3lido77"
+    3300426: "S\xF3lido78"
+    3300428: "S\xF3lido79"
+    3300430: "S\xF3lido8"
+    3300432: "S\xF3lido80"
+    3300434: "S\xF3lido81"
+    3300436: "S\xF3lido82"
+    3300438: "S\xF3lido83"
+    3300440: "S\xF3lido84"
+    3300442: "S\xF3lido85"
+    3300444: "S\xF3lido86"
+    3300446: "S\xF3lido87"
+    3300448: "S\xF3lido88"
+    3300450: "S\xF3lido89"
+    3300452: "S\xF3lido9"
+    3300454: "S\xF3lido90"
+    3300456: "S\xF3lido91"
+    3300458: "S\xF3lido92"
+    3300460: "S\xF3lido93"
+    3300462: "S\xF3lido94"
+    3300464: "S\xF3lido95"
+    3300466: "S\xF3lido96"
+    3300468: "S\xF3lido97"
+    3300470: "S\xF3lido98"
+    3300472: "S\xF3lido99"
+    4300000: "S\xF3lido1"
+    4300002: "S\xF3lido1"
+    4300004: "S\xF3lido1"
+    4300006: "S\xF3lido1"
+    4300008: Solid1
+    4300010: Solid1
+    4300012: Solid1
+    4300014: Solid1
+    4300016: Solid1
+    4300018: Solid1
+    4300020: Solid1
+    4300022: Solid1
+    4300024: Solid1
+    4300026: Solid1
+    4300028: Solid1
+    4300030: Solid1
+    4300032: Solid1
+    4300034: Solid1
+    4300036: Solid1
+    4300038: Solid1
+    4300040: Solid1
+    4300042: Solid1
+    4300044: Solid1
+    4300046: Solid1
+    4300048: Solid1
+    4300050: Solid1
+    4300052: Solid1
+    4300054: Solid1
+    4300056: Solid1
+    4300058: Solid1
+    4300060: Solid1
+    4300062: Solid1
+    4300064: Solid1
+    4300066: Solid1
+    4300068: Solid1
+    4300070: "S\xF3lido1"
+    4300072: "S\xF3lido2"
+    4300074: "S\xF3lido3"
+    4300076: "S\xF3lido4"
+    4300078: "S\xF3lido5"
+    4300080: "S\xF3lido6"
+    4300082: "S\xF3lido7"
+    4300084: "S\xF3lido8"
+    4300086: "S\xF3lido9"
+    4300088: "S\xF3lido10"
+    4300090: "S\xF3lido11"
+    4300092: "S\xF3lido12"
+    4300094: "S\xF3lido13"
+    4300096: "S\xF3lido14"
+    4300098: "S\xF3lido15"
+    4300100: "S\xF3lido16"
+    4300102: "S\xF3lido17"
+    4300104: "S\xF3lido18"
+    4300106: "S\xF3lido19"
+    4300108: "S\xF3lido20"
+    4300110: "S\xF3lido21"
+    4300112: "S\xF3lido22"
+    4300114: "S\xF3lido23"
+    4300116: "S\xF3lido24"
+    4300118: "S\xF3lido25"
+    4300120: "S\xF3lido26"
+    4300122: "S\xF3lido27"
+    4300124: "S\xF3lido28"
+    4300126: "S\xF3lido29"
+    4300128: "S\xF3lido30"
+    4300130: "S\xF3lido31"
+    4300132: "S\xF3lido32"
+    4300134: "S\xF3lido33"
+    4300136: "S\xF3lido34"
+    4300138: "S\xF3lido35"
+    4300140: "S\xF3lido36"
+    4300142: "S\xF3lido37"
+    4300144: "S\xF3lido38"
+    4300146: "S\xF3lido39"
+    4300148: "S\xF3lido40"
+    4300150: "S\xF3lido41"
+    4300152: "S\xF3lido42"
+    4300154: "S\xF3lido43"
+    4300156: "S\xF3lido44"
+    4300158: "S\xF3lido45"
+    4300160: "S\xF3lido46"
+    4300162: "S\xF3lido47"
+    4300164: "S\xF3lido48"
+    4300166: "S\xF3lido49"
+    4300168: "S\xF3lido50"
+    4300170: "S\xF3lido51"
+    4300172: "S\xF3lido52"
+    4300174: "S\xF3lido53"
+    4300176: "S\xF3lido54"
+    4300178: "S\xF3lido55"
+    4300180: "S\xF3lido56"
+    4300182: "S\xF3lido57"
+    4300184: "S\xF3lido58"
+    4300186: "S\xF3lido59"
+    4300188: "S\xF3lido60"
+    4300190: "S\xF3lido61"
+    4300192: "S\xF3lido62"
+    4300194: "S\xF3lido63"
+    4300196: "S\xF3lido64"
+    4300198: "S\xF3lido65"
+    4300200: "S\xF3lido66"
+    4300202: "S\xF3lido67"
+    4300204: "S\xF3lido68"
+    4300206: "S\xF3lido69"
+    4300208: "S\xF3lido70"
+    4300210: "S\xF3lido71"
+    4300212: "S\xF3lido72"
+    4300214: "S\xF3lido73"
+    4300216: "S\xF3lido74"
+    4300218: "S\xF3lido75"
+    4300220: "S\xF3lido76"
+    4300222: "S\xF3lido77"
+    4300224: "S\xF3lido78"
+    4300226: "S\xF3lido79"
+    4300228: "S\xF3lido80"
+    4300230: "S\xF3lido81"
+    4300232: "S\xF3lido82"
+    4300234: "S\xF3lido83"
+    4300236: "S\xF3lido84"
+    4300238: "S\xF3lido85"
+    4300240: "S\xF3lido86"
+    4300242: "S\xF3lido87"
+    4300244: "S\xF3lido88"
+    4300246: "S\xF3lido89"
+    4300248: "S\xF3lido90"
+    4300250: "S\xF3lido91"
+    4300252: "S\xF3lido92"
+    4300254: "S\xF3lido93"
+    4300256: "S\xF3lido94"
+    4300258: "S\xF3lido95"
+    4300260: "S\xF3lido96"
+    4300262: "S\xF3lido97"
+    4300264: "S\xF3lido98"
+    4300266: "S\xF3lido99"
+    4300268: "S\xF3lido100"
+    4300270: Solid1
+    4300272: Solid1
+    4300274: Solid1
+    4300276: Solid1
+    4300278: Solid1
+    4300280: Solid1
+    4300282: Solid1
+    4300284: Solid1
+    4300286: Solid1
+    4300288: Solid1
+    4300290: Solid1
+    4300292: Solid1
+    4300294: Solid1
+    4300296: Solid1
+    4300298: Solid1
+    4300300: Solid1
+    4300302: Solid1
+    4300304: Solid1
+    4300306: Solid1
+    4300308: Solid1
+    4300310: Solid1
+    4300312: Solid1
+    4300314: Solid1
+    4300316: Solid1
+    4300318: Solid1
+    4300320: Solid1
+    4300322: Solid1
+    4300324: Solid1
+    4300326: Solid1
+    4300328: Solid1
+    4300330: Solid1
+    4300332: Solid1
+    4300334: Solid1
+    4300336: Solid1
+    4300338: Solid1
+    4300340: Solid1
+    4300342: Solid1
+    4300344: Solid1
+    4300346: Solid1
+    4300348: Solid1
+    4300350: Solid1
+    4300352: Solid1
+    4300354: Solid1
+    4300356: Solid1
+    4300358: Solid1
+    4300360: Solid1
+    4300362: Solid1
+    4300364: Solid1
+    4300366: Solid1
+    4300368: Solid1
+    4300370: Solid1
+    4300372: Solid1
+    4300374: Solid1
+    4300376: Solid1
+    4300378: Solid1
+    4300380: Solid1
+    4300382: Solid1
+    4300384: Solid1
+    4300386: Solid1
+    4300388: Solid1
+    4300390: Solid1
+    4300392: Solid1
+    4300394: Solid1
+    4300396: Solid1
+    4300398: Solid1
+    4300400: Solid1
+    4300402: Solid1
+    4300404: Solid1
+    4300406: Solid1
+    4300408: Solid1
+    4300410: Solid1
+    4300412: Solid1
+    4300414: Solid1
+    4300416: Solid1
+    4300418: Solid1
+    4300420: Solid1
+    4300422: Solid1
+    4300424: Solid1
+    4300426: Solid1
+    4300428: Solid1
+    4300430: Solid1
+    4300432: Solid1
+    4300434: Solid1
+    4300436: Solid1
+    4300438: Solid1
+    4300440: Solid1
+    4300442: Solid1
+    4300444: Solid1
+    4300446: Solid1
+    4300448: Solid1
+    4300450: "S\xF3lido1"
+    4300452: "S\xF3lido1"
+    4300454: "S\xF3lido1"
+    4300456: "S\xF3lido1"
+    4300458: "S\xF3lido1"
+    4300460: Solid1
+    4300462: Solid1
+    4300464: Solid1
+    4300466: Solid1
+    4300468: Solid1
+    4300470: Solid1
+    4300472: Solid1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
